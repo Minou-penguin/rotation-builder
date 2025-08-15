@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "689d87f3e45f9c0431081098_e8a916fd-a38b-4f60-a35b-b96e20aaa563",
+  "id": "Page1_skills",
+  "unpublishedCollection": {
+    "name": "skills",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "skillsBard",
+        "value": "[{\n  name: \"Burst Shot\",\n  potency: 230,\n  cooldown: 2.5,\n  type: \"DPS\",\n  img: \"https://ffxiv.gamerescape.com/w/images/8/80/Burst_Shot_Icon.png\"\n}, {\n  name: \"Iron Jaws\",\n  potency: 100,\n  cooldown: 2.5,\n  type: \"DPS\",\n  img: \"https://ffxiv.gamerescape.com/w/images/archive/9/97/20240628174929%21Iron_Jaws_Icon.png\"\n}, {\n  name: \"Empyreal Arraw\",\n  potency: 230,\n  cooldown: 15,\n  type: \"DPS\",\n  img: \"https://ffxiv.gamerescape.com/w/images/archive/a/ad/20240628173808%21Empyreal_Arrow_Icon.png\"\n}, {\n  name: \"Mage's Ballad\",\n  potency: 100,\n  cooldown: 120,\n  type: \"Support\",\n  img: \"https://ffxiv.gamerescape.com/w/images/archive/b/b2/20240628175526%21Mage%27s_Ballad_Icon.png\"\n}]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}
